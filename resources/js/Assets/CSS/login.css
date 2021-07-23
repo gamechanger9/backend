@@ -1,0 +1,33 @@
+.Login
+{
+    height: 600px;
+    width: 500px;
+    margin: auto;
+    position: absolute;
+	top:0;
+	bottom: 0;
+	left: 0;
+    right: 0;
+
+}
+.Login Form
+{
+    height: 400px;
+    width: 500px;
+    margin: auto;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin-top: 40%;
+    
+}
+.Login img
+{
+    width: 150px;
+    height: 100px;
+    margin: auto;
+    position: absolute;
+    margin-top: 10%;
+	left: 0;
+	right: 0;
+}
